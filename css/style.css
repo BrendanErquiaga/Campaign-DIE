@@ -1,0 +1,163 @@
+/*!
+ *
+ *
+ * Material Design for Bootstrap
+ * www.mdbootstrap.com
+ *
+ *
+ */
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.full-bg-img {
+  background: url("http://mdbootstrap.com/images/regular/city/img%20(23).jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+  .full-bg-img, .view {
+    height: auto;
+    position: relative;
+    text-align: center;
+  }
+  .full-bg-img .verticalcenter, .view .verticalcenter {
+    top: none;
+    margin-top: 40px;
+    -webkit-transform: none;
+    -o-transform: none;
+    transform: none;
+  }
+  .full-bg-img .container, .view .container {
+    padding-top: 30px;
+  }
+}
+
+.top-nav-collapse {
+  background-color: #405C84;
+}
+
+.top-nav-collapse .nav li a {
+  color: #fff;
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar {
+    background-color: #405C84;
+  }
+  .navbar .navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff;
+  }
+}
+
+.pt-color {
+  background-color: #405C84 !important;
+}
+
+.st-color {
+  background-color: #0E274D !important;
+}
+
+.btn-ptc {
+  background-color: #405C84 !important;
+}
+
+.btn-ptc:hover {
+  background-color: #5174a6 !important;
+}
+
+.btn-ptc:focus {
+  background-color: #5174a6 !important;
+}
+
+.btn-stc {
+  background-color: #0E274D !important;
+}
+
+.btn-stc:hover {
+  background-color: #163d78 !important;
+}
+
+.btn-stc:focus {
+  background-color: #163d78 !important;
+}
+
+.btn-floating,
+.carousel-indicators li {
+  background-color: #0E274D !important;
+}
+
+.testimonial-card {
+    margin: .5rem 0 1rem;
+    position: relative;
+    background-color: #fff
+}
+
+.testimonial-card .avatar {
+    border-radius: 50%;
+    display: block;
+    margin: -65px auto 0;
+    width: 120px
+}
+
+.testimonial-card .avatar img {
+    border: 5px solid #fff;
+    background: #FFF;
+    width: 100%
+}
+
+.testimonial-card .card-content {
+    padding: 1em;
+    color: #666;
+    background-color: #fff;
+    text-align: center
+}
+
+.testimonial-card .card-content h5 {
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee
+}
+
+.testimonial-card .card-content p {
+    font-size: 15px;
+    line-height: 1.571428;
+    font-weight: 300
+}
+
+.testimonial-card .avatar, .testimonial-card .card-up {
+    overflow: hidden;
+    height: 120px;
+}
+
+.multiitem-car {
+    margin-bottom: 5em;
+}
+
+.multiitem-car .carousel-indicators {
+    margin-bottom: -2em;
+}
+
+.multiitem-car .carousel-indicators .active {
+    height: 25px;
+    width: 25px;
+    background-color: #000;
+}
+
+.multiitem-car .carousel-indicators li {
+    height: 20px;
+    width: 20px;
+    background-color: #000;
+    margin-bottom: -30px;
+}
