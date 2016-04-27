@@ -14,10 +14,6 @@ body {
   padding: 0;
 }
 
-.col-xs-15{
-    width:20%;
-}
-
 .base-bg-img {
   background: url("../assets/images/explore.jpg") no-repeat center center fixed;
 }
