@@ -10,9 +10,7 @@ var potraitLocation = "assets/portraits/";
 
 function setupCharacter(characterID) {
   var characterIDString = "#character-id-" + characterID;
-
-  console.log(characterIDString);
-
+  
   var portraitSource = potraitLocation + characters[i].name + ".jpg";
 
   $(characterIDString).find('.avatar img').attr('src', portraitSource);
@@ -20,6 +18,7 @@ function setupCharacter(characterID) {
   $(characterIDString).find(".character-name").text(characters[i].name);
   $(characterIDString).find(".character-class").text(characters[i].domain + " " + characters[i].class);
   $(characterIDString).find(".character-description").text(characters[i].description);
+  $(characterIDString).find(".character-sheet").attr('href', characters[i].link);
 };
 
 function getClassColor(characterClass) {

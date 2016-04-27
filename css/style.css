@@ -14,8 +14,23 @@ body {
   padding: 0;
 }
 
-.full-bg-img {
-  background: url("http://mdbootstrap.com/images/regular/city/img%20(23).jpg") no-repeat center center fixed;
+.col-xs-15{
+    width:20%;
+}
+
+.base-bg-img {
+  background: url("../assets/images/explore.jpg") no-repeat center center fixed;
+}
+
+.index-bg-img {
+  background: url("../assets/images/mountains.jpg") no-repeat center center fixed;
+}
+
+.character-bg-img {
+  background: url("../assets/images/party.jpg") no-repeat center center fixed;
+}
+
+.full-bg {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -30,14 +45,15 @@ body {
     position: relative;
     text-align: center;
   }
-  .full-bg-img .verticalcenter, .view .verticalcenter {
+
+.full-bg .verticalcenter, .view .verticalcenter {
     top: none;
     margin-top: 40px;
     -webkit-transform: none;
     -o-transform: none;
     transform: none;
   }
-  .full-bg-img .container, .view .container {
+  .full-bg .container, .view .container {
     padding-top: 30px;
   }
 }
@@ -104,8 +120,6 @@ body {
     background-color: #fff
 }
 
-
-
 .testimonial-card .avatar {
     border-radius: 50%;
     display: block;
@@ -132,8 +146,6 @@ body {
     background-color: #fff;
     text-align: center;
 }
-
-
 
 .testimonial-card .card-content h5 {
     margin-top: 0;

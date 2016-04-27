@@ -4,7 +4,8 @@ var Drax =
   "name" : "Drax",
   "class" : "Barbarian",
   "domain" : "Totem",
-  "description" : "Sturdy, Relentless, Angry. Perfect for players who want to charge headlong into battle without worrying about dying. "
+  "description" : "Sturdy, Relentless, Angry. Perfect for players who want to charge headlong into battle without worrying about dying. ",
+  "link" : "https://drive.google.com/file/d/0BwGDzNUXpcCEbDMwQXB2V2V5bjA/view"
 };
 
 var Rask =
@@ -13,7 +14,8 @@ var Rask =
   "name" : "Rask",
   "class" : "Paladin",
   "domain" : "Ancients",
-  "description" : "Holy Defender of the realm. A great choice for players who want to be self sufficient while protecting their allies."
+  "description" : "Holy Defender of the realm. A great choice for players who want to be self sufficient while protecting their allies.",
+  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEYXJUOHpIWllIZWc"
 };
 
 var Groob =
@@ -22,7 +24,8 @@ var Groob =
   "name" : "Groob",
   "class" : "Fighter",
   "domain" : "Eldritch Knight",
-  "description" : "A tricky fighter who uses magic. A good choice for the player who wants it all and isn't afraid of complex decisions. "
+  "description" : "A tricky fighter who uses magic. A good choice for the player who wants it all and isn't afraid of complex decisions. ",
+  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEOF9vdnJQU0ZzMlk"
 };
 
 var Galrak =
@@ -31,7 +34,8 @@ var Galrak =
   "name" : "Sir Galrak",
   "class" : "Paladin",
   "domain" : "Devotion",
-  "description" : "Protection with a concious. Good for those who wish to protect their allies with divine magic."
+  "description" : "Protection with a concious. Good for those who wish to protect their allies with divine magic.",
+  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEVkF6RE8tcEpDQzQ"
 };
 
 var Melianthe =
@@ -40,7 +44,8 @@ var Melianthe =
   "name" : "Melianthe",
   "class" : "Druid",
   "domain" : "Grassland Circle",
-  "description" : "A nature oriented spell caster. Perfect for the hippy who wants to save their friends. "
+  "description" : "A nature oriented spell caster. Perfect for the hippy who wants to save their friends. ",
+  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCENHpBRGNWc3cyMFU"
 };
 
 var Craef =
@@ -49,7 +54,8 @@ var Craef =
   "name" : "Craef",
   "class" : "Cleric",
   "domain" : "Life",
-  "description" : "The archtypical healer. Seriously if you want to heal play this."
+  "description" : "The archtypical healer. Seriously if you want to heal play this.",
+  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEVTFWVEtqTm5aams"
 };
 
 var Thokk =
@@ -58,7 +64,8 @@ var Thokk =
   "name" : "Thokk",
   "class" : "Barbarian",
   "domain" : "Berserker",
-  "description" : "RAAAAAGE! If you want to hit stuff hard..."
+  "description" : "RAAAAAGE! If you want to hit stuff hard...",
+  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEYXh3alhRM1U2bU0"
 };
 
 var Dala =
@@ -67,7 +74,8 @@ var Dala =
   "name" : "Dala",
   "class" : "Ranger",
   "domain" : "Hunter",
-  "description" : "The archer. No seriously she shoots stuff. "
+  "description" : "The archer. No seriously she shoots stuff. ",
+  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEWlZ5MU5MalZHVkE"
 };
 
 var Vala =
@@ -76,7 +84,8 @@ var Vala =
   "name" : "Vala",
   "class" : "Rogue",
   "domain" : "Assassin",
-  "description" : "Stabby Ms. Stabberson. "
+  "description" : "Stabby Ms. Stabberson. ",
+  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEQ2oyX3JuMl9lSTg"
 };
 
 var Loopmottin =
@@ -85,7 +94,8 @@ var Loopmottin =
   "name" : "Loopmottin",
   "class" : "Wizard",
   "domain" : "Evocation",
-  "description" : "PEW PEW PEW. Magic Missile! Probably other things but mostly magic missle..."
+  "description" : "PEW PEW PEW. Magic Missile! Probably other things but mostly magic missle...",
+  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEWGFMeWV6WmJNUjQ"
 };
 
 var Arumi =
@@ -94,7 +104,8 @@ var Arumi =
   "name" : "Arumi",
   "class" : "Sorcerer",
   "domain" : "Red Draconic",
-  "description" : "Did you want to cast a fireball? Like a lot? Here you go."
+  "description" : "Did you want to cast a fireball? Like a lot? Here you go.",
+  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEaFk5d2VJQU5zeUE"
 };
 
 var Tish =
@@ -103,7 +114,8 @@ var Tish =
   "name" : "Tish",
   "class" : "Warlock",
   "domain" : "Archfey Pact",
-  "description" : "For weirdos & players who want to beguile their enemies. "
+  "description" : "For weirdos & players who want to beguile their enemies. ",
+  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEanZsMGpwc0QwYTQ"
 };
 
 var Gleoc =
@@ -112,7 +124,8 @@ var Gleoc =
   "name" : "Gleoc",
   "class" : "Bard",
   "domain" : "Lore",
-  "description" : "Not Kvothe but like Kvothe."
+  "description" : "Not Kvothe but like Kvothe.",
+  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEejh2aGIxTnJaRmM"
 };
 
 var Ulfgar =
@@ -121,7 +134,8 @@ var Ulfgar =
   "name" : "Ulfgar",
   "class" : "Cleric",
   "domain" : "Trickery",
-  "description" : "Support character with an emphasis on deception. "
+  "description" : "Support character with an emphasis on deception. ",
+  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEVlpNREt4LVIxc0E"
 };
 
 var Elorfil =
@@ -130,7 +144,8 @@ var Elorfil =
   "name" : "Elorfil",
   "class" : "Druid",
   "domain" : "Arctic Circle",
-  "description" : "Slow your enemies down & Let It Go. "
+  "description" : "Slow your enemies down & Let It Go. ",
+  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEZ0JDZWRTVW1nWlE"
 };
 
 var characters = [
