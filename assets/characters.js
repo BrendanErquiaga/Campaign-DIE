@@ -54,7 +54,7 @@ var Craef =
   "name" : "Craef",
   "class" : "Cleric",
   "domain" : "Life",
-  "description" : "Seriously if you want to heal...",
+  "description" : "If you want to heal then pick this one...",
   "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEVTFWVEtqTm5aams"
 };
 
@@ -84,7 +84,7 @@ var Vala =
   "name" : "Vala",
   "class" : "Rogue",
   "domain" : "Assassin",
-  "description" : "Stabby Ms. Stabberson. Stabby!",
+  "description" : "Stabby Ms. Stabberson. Stab!!!",
   "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEQ2oyX3JuMl9lSTg"
 };
 
