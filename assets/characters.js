@@ -41,7 +41,7 @@ var Galrak =
 var Melianthe =
 {
   "id" : 4,
-  "name" : "Melianthe",
+  "name" : "Meli",
   "class" : "Druid",
   "domain" : "Grassland",
   "description" : "A nature oriented spell caster. Perfect for the hippy who wants to save their friends. ",
@@ -91,7 +91,7 @@ var Vala =
 var Loopmottin =
 {
   "id" : 9,
-  "name" : "Loopmottin",
+  "name" : "Loop",
   "class" : "Wizard",
   "domain" : "Evocation",
   "description" : "PEW PEW PEW. Magic Missile!",
