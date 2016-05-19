@@ -203,3 +203,8 @@ body {
     background-color: #000;
     margin-bottom: -30px;
 }
+
+.unavailable {
+  opacity: 0.5;
+  pointer-events: none;
+}

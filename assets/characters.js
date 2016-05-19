@@ -115,7 +115,8 @@ var Tish =
   "class" : "Warlock",
   "domain" : "Archfey",
   "description" : "Beguile your enemies.",
-  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEanZsMGpwc0QwYTQ"
+  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEanZsMGpwc0QwYTQ",
+  "disabled" : true
 };
 
 var Gleoc =
