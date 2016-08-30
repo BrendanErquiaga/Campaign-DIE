@@ -75,7 +75,8 @@ var Dala =
   "class" : "Ranger",
   "domain" : "Hunter",
   "description" : "The archer. Seriously she shoots stuff. ",
-  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEWlZ5MU5MalZHVkE"
+  "link" : "https://drive.google.com/open?id=0BwGDzNUXpcCEWlZ5MU5MalZHVkE",
+  "disabled" : true  
 };
 
 var Vala =
